@@ -9,10 +9,9 @@ scripts used to build the portable package. It intentionally contains no
 workbooks, processed copies, logs, credentials, personal paths, or binary
 release archive.
 
-## Developers and collaborators
+## Project ownership
 
 - **INEEDBUG** — product direction, key decisions, scope, and final acceptance.
-- **OpenAI Codex** and **Hermes Agent** — AI development collaborators.
 
 See [AUTHORS.md](AUTHORS.md) for the role details and publication boundary.
 
