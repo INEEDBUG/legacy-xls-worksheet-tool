@@ -9,6 +9,13 @@ scripts used to build the portable package. It intentionally contains no
 workbooks, processed copies, logs, credentials, personal paths, or binary
 release archive.
 
+## Developers and collaborators
+
+- **INEEDBUG** — product direction, key decisions, scope, and final acceptance.
+- **OpenAI Codex** and **Hermes Agent** — AI development collaborators.
+
+See [AUTHORS.md](AUTHORS.md) for the role details and publication boundary.
+
 ## Scope and safety boundary
 
 The tool handles legacy `.xls` worksheet, workbook-structure, window, and
@@ -91,4 +98,3 @@ powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File .\build.ps1
 The command writes an ignored `dist\Excel工作表离线解锁工具_v1.2.0.zip` and a
 SHA-256 manifest. The public repository keeps the source and build recipe,
 not the generated binary archive.
-

@@ -24,6 +24,7 @@ $runtimeFiles = @(
     'ExcelUnlocker.cmd',
     $launcherFiles[0].Name,
     'README.md',
+    'AUTHORS.md',
     'VERSION'
 )
 
