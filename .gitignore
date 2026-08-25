@@ -1,0 +1,17 @@
+# Generated package output
+dist/
+artifacts/
+
+# Runtime/test output and temporary files
+TestResults/
+*.log
+*.tmp-*
+
+# Workbook data must never be committed to this source repository.
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*已解除保护*.xls
+*.zip
+
